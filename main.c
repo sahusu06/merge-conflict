@@ -16,7 +16,14 @@ Security patch
 }
 
 {
+<<<<<<< HEAD
 feature 1 changes
 }
 
+=======
+feature 2 changes
+}
+
+
+>>>>>>> feature2
 }
