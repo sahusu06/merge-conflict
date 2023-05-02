@@ -5,7 +5,10 @@ Initial Function()
   //Sample Code
 }
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> master
 
 }
